@@ -88,6 +88,8 @@ color:
     light: white
     dark: black
 
+# See: https://fonts.google.com
+
 typography:
   fonts:
     # Google Fonts
@@ -135,7 +137,7 @@ typography:
     color: brown
     weight: 700
     style: bold
-  monospace: Space Mono
+  monospace: Source Code Pro
   monospace-inline:
     color: green
     background-color: gray
