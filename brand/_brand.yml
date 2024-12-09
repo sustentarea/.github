@@ -76,17 +76,17 @@ color:
     white: "#ffffff"
     gray: "#7a7a7a"
     black: "#272b33"
-  theme:
-    background: white
-    primary: green
-    secondary: red
-    tertiary: brown
-    success: light-green
-    info: green
-    warning: dark-red
-    danger: brown
-    light: white
-    dark: black
+
+  background: white
+  primary: green
+  secondary: red
+  tertiary: brown
+  success: light-green
+  info: green
+  warning: dark-red
+  danger: brown
+  light: white
+  dark: black
 
 # See: https://fonts.google.com
 
@@ -130,7 +130,6 @@ typography:
       source: file
       files: fonts/trocchi/Trocchi-Regular.ttf
   base: Poppins
-    color: black
     line-height: 1.5
     size: 1rem
   headings: Lato
