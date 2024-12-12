@@ -67,16 +67,15 @@ color:
   palette:
     # Primary Colors
     green: "#006909"
-    red: "#ed6b4d"
+    red: "#ED6B4D"
     brown: "#513024"
     # Secondary Colors
-    light-green: "#9ecd7a"
-    dark-red: "#b44522"
+    light-green: "#9ECD7A"
+    dark-red: "#B44522"
     # Grayscale
-    white: "#ffffff"
-    gray: "#7a7a7a"
-    black: "#272b33"
-
+    white: "#FFFFFF"
+    gray: "#7A7A7A"
+    black: "#272B33"
   background: white
   primary: green
   secondary: red
@@ -95,11 +94,7 @@ typography:
     # Google Fonts
     - family: Poppins
       source: google
-    - family: Lato
-      source: google
-      weight: 700
-      style: bold
-    - family: Source Code Pro
+    - family: DM Mono
       source: google
     # Print (Local -> Avoid using)
     - family: Catamaran
@@ -129,14 +124,17 @@ typography:
     - family: Trocchi
       source: file
       files: fonts/trocchi/Trocchi-Regular.ttf
-  base: Poppins
-    line-height: 1.5
+  base: # color: gray
+    family: Poppins
     size: 1rem
-  headings: Lato
+    line-height: 1.5
+    weight: normal
+  headings: # h1 3rem; h2 1.6rem;
+    family: Poppins
     color: brown
-    weight: 700
-    style: bold
-  monospace: Source Code Pro
+    line-height: 1.5
+    weight: normal
+  monospace: DM Mono
   monospace-inline:
     color: green
     background-color: gray
@@ -150,7 +148,7 @@ defaults:
   bootstrap:
     defaults:
       link-decoration: underline
-      navbar-fg: "#ffffff"
+      navbar-fg: white
   quarto:
     format:
       html:
