@@ -91,39 +91,24 @@ color:
 
 typography:
   fonts:
-    # Google Fonts
+    # Main fonts
     - family: Poppins
+      source: google
+    - family: DM Sans
       source: google
     - family: DM Mono
       source: google
-    # Print (Local -> Avoid using)
+    # Other fonts (Avoid using)
     - family: Catamaran
-      source: file
-      files:
-        - path: fonts/catamaran/static/Catamaran-Regular.ttf
-        - path: fonts/catamaran/static/Catamaran-SemiBold.ttf
-          style: semi-bols
-    - family: Kollektif
-      source: file
-      files:
-        - path: fonts/kollektif/Kollektif.ttf
-        - path: fonts/kollektif/Kollektif-Bold.ttf
-          style: bold
-    - family: League Gothic
-      source: file
-      files:
-        - path: fonts/league-gothic/static/LeagueGothic-Regular.ttf
-        - path: fonts/league-gothic/static/LeagueGothic_Condensed-Regular.ttf
-          style: condensed
-    - family: Montserrat
-      source: file
-      files:
-        - path: fonts/montserrat/static/Montserrat-Regular.ttf
-        - path: fonts/montserrat/static/Montserrat-SemiBold.ttf
-          style: bold
+      source: google
     - family: Trocchi
+      source: google
+    - family: Kollektif # style: bold
       source: file
-      files: fonts/trocchi/Trocchi-Regular.ttf
+    - family: League Gothic # style: condensed
+      source: file
+    - family: Montserrat # style: bold
+      source: file
   base: # color: gray
     family: Poppins
     size: 1rem
