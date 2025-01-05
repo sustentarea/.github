@@ -1,0 +1,31 @@
+GIMP Palette
+Name: Sustentarea
+Columns: 0
+
+# Learn more about the format at:
+# 
+# - https://github.com/Robert-96/gimp-color-palettes
+# - https://developer.gimp.org/core/standards/gpl/
+
+# # Examples
+# 
+# - GIMP Color Palettes: <https://robert-96.github.io/gimp-color-palettes/>.
+# - Material Design Color Swatches: 
+#   <https://github.com/christianlacerda/material-design-swatches>.
+
+# # Format
+# 
+# r g b   any color name you want
+# 
+# - Each column must have 3 numbers: `000 000 000`.
+# - Align the numbers to the right.
+# - The presence of the `Columns` lines is required on Inkscape.
+
+  0 105   9   Green
+158 205 122   Light Green
+237 107  77   Red
+180  69  34   Dark Red
+ 81  48  36   Brown
+255 255 255   White
+122 122 122   Grey
+ 39  43  51   Black
