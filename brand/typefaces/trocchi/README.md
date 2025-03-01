@@ -1,4 +1,4 @@
 # Trocchi
 
-- Source: Google Fonts.
-- Downloaded on: 2024-12-29.
+- Source: Google Fonts
+- Downloaded on: 2024-12-29

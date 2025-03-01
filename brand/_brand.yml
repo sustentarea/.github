@@ -1,5 +1,5 @@
 # For detailed documentation on the format, refer to:
-# 
+#
 # - https://posit-dev.github.io/brand-yml
 # - https://quarto.org/docs/authoring/brand.html
 
@@ -20,32 +20,35 @@ meta:
     linkedin: https://www.linkedin.com/in/sustentarea-usp-230700218
     linktree: https://linktr.ee/sustentarea.usp
   description: |
-    We are a Research and Extension Center at the University of São Paulo 
-    (USP) dedicated to advancing scientific research in food systems, 
+    We are a Research and Extension Center at the University of São Paulo
+    (USP) dedicated to advancing scientific research in food systems,
     sustainable eating, and the global syndemic. 🍏🥦🌍
   founded: 2012
 
-logo: 
+logo:
   images:
     favicon:
       path: images/favicon.png
       alt: "Logo favicon"
+    hex-logo:
+      path: images/hex-logo-rgb-96-dpi.png
+      alt: "Hex logo"
     og-image:
       path: image/og-image.png
       alt: "Open Graph Image"
-    icon: 
+    icon:
       path: images/icon-rgb-72-dpi.png
       alt: "Logo icon"
-    icon-w-margins: 
+    icon-w-margins:
       path: images/icon-rgb-72-dpi-w-margins.png
       alt: "Logo icon with margins"
-    name: 
+    name:
       path: images/name-rgb-72-dpi.png
       alt: "Logo name"
-    name-w-margins: 
+    name-w-margins:
       path: images/name-rgb-72-dpi-w-margins.png
       alt: "Logo name with margins"
-    name-light-green: 
+    name-light-green:
       path: images/name-light-green-rgb-72-dpi.png
       alt: "Logo name in ligth green"
     primary:
@@ -62,9 +65,10 @@ logo:
   large: primary
 
 # For a better visualization of the color palette, see:
-# 
+#
 # - https://coolors.co/006909-9ecd7a-ed6b4d-b44522-513024-ffffff-7a7a7a-272b33
 # - https://www.color-name.com/hex/006909
+# - https://www.canva.com/colors/color-wheel/
 
 color:
   palette:
@@ -119,7 +123,7 @@ typography:
     size: 0.9rem
     line-height: 2
     weight: normal
-  headings: # h1 3rem; h2 1.6rem;
+  headings:
     family: Poppins
     color: brown
     line-height: 2

@@ -1,3 +1,3 @@
 # League Gothic
 
-- Source: Unknown.
+- Source: Unknown

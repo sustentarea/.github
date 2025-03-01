@@ -1,3 +1,3 @@
 # Kollektif
 
-- Source: Unknown.
+- Source: Unknown
