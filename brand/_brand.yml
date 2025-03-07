@@ -137,3 +137,21 @@ typography:
   link:
     color: green
     decoration: underline
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: $brand-black
+    rules: |
+      .navbar {
+        background-color: $brand-black !important;
+      }
+
+      .navbar a {
+        color: white !important;
+      }
+
+      [data-bs-theme="dark"] pre, [data-bs-theme="dark"] code,
+      [data-bs-theme="dark"] a {
+        color: $brand-light-green;
+      }
