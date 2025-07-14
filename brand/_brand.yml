@@ -1,11 +1,3 @@
-# For detailed documentation on the format, refer to:
-#
-# - https://posit-dev.github.io/brand-yml
-# - https://quarto.org/docs/authoring/brand.html
-
-# Most of the parameters were extracted from the Sustentarea's website
-# <https://www.fsp.usp.br/sustentarea/>.
-
 meta:
   name:
     short: Sustentarea
@@ -63,12 +55,6 @@ logo:
   small: favicon
   medium: name
   large: primary
-
-# For a better visualization of the color palette, see:
-#
-# - https://coolors.co/006909-9ecd7a-ed6b4d-b44522-513024-ffffff-7a7a7a-272b33
-# - https://www.color-name.com/hex/006909
-# - https://www.canva.com/colors/color-wheel/
 
 color:
   palette:
