@@ -58,18 +58,15 @@ logo:
 
 color:
   palette:
-    # Primary Colors
     green: "#006909"
     red: "#ED6B4D"
     brown: "#513024"
-    # Secondary Colors
     light-green: "#9ECD7A"
     dark-red: "#B44522"
-    # Grayscale
     white: "#FFFFFF"
-    grey: "#7A7A7A"
-    grey-950: "#F1F1F1" # get_brand_color_tint(950, "grey")
-    grey-975: "#F8F8F8" # get_brand_color_tint(950, "grey")
+    gray: "#7A7A7A"
+    gray-950: "#F1F1F1" # get_brand_color_tint(950, "gray")
+    gray-975: "#F8F8F8" # get_brand_color_tint(950, "gray")
     black: "#272B33"
   background: white
   primary: green
@@ -82,11 +79,8 @@ color:
   light: white
   dark: black
 
-# See: https://fonts.google.com
-
 typography:
   fonts:
-    # Main fonts
     - family: Poppins
       source: google
     - family: DM Sans
@@ -117,9 +111,9 @@ typography:
   monospace: DM Mono
   monospace-inline:
     color: green
-    background-color: grey-975
+    background-color: gray-975
   monospace-block:
-    background-color: grey-975
+    background-color: gray-975
   link:
     color: green
     decoration: underline
