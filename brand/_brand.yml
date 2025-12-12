@@ -12,9 +12,9 @@ meta:
     linkedin: https://www.linkedin.com/in/sustentarea-usp-230700218
     linktree: https://linktr.ee/sustentarea.usp
   description: |
-    We are a Research and Extension Center at the University of São Paulo
+    Research and Extension Center of the University of São Paulo
     (USP) dedicated to advancing scientific research in food systems,
-    sustainable eating, and the global syndemic. 🍏🥦🌍
+    sustainable eating, and the global syndemic.
   founded: 2012
 
 logo:
@@ -60,13 +60,17 @@ color:
   palette:
     green: "#006909"
     red: "#ED6B4D"
+    red-750: "#F5B4A5"
     brown: "#513024"
+    brown-750: "#A79791"
     light-green: "#9ECD7A"
     dark-red: "#B44522"
+    dark-red-triadic-blue: "#4522B4" # colortools::triadic("#B44522")[3]
     white: "#FFFFFF"
     gray: "#7A7A7A"
-    gray-950: "#F1F1F1" # get_brand_color_tint(950, "gray")
-    gray-975: "#F8F8F8" # get_brand_color_tint(950, "gray")
+    gray-d15: "#676767" # colorspace::darken("#7A7A7A", 0.15)
+    gray-l50: "#BABABA" # colorspace::lighten("#7A7A7A", 0.50)
+    gray-l95: "#F8F8F8"
     black: "#272B33"
   background: white
   primary: green
@@ -83,31 +87,18 @@ typography:
   fonts:
     - family: Poppins
       source: google
-    - family: DM Sans
-      source: google
     - family: DM Mono
       source: google
-    # Other fonts (Avoid using)
-    - family: Catamaran
-      source: google
-    - family: Trocchi
-      source: google
-    - family: Kollektif # style: bold
-      source: file
-    - family: League Gothic # style: condensed
-      source: file
-    - family: Montserrat # style: bold
-      source: file
-  base: # color: gray
+  base:
     family: Poppins
-    size: 0.9rem
+    size: 1rem
     line-height: 2
     weight: normal
   headings:
     family: Poppins
     color: brown
     line-height: 2
-    weight: bold
+    weight: 800
   monospace: DM Mono
   monospace-inline:
     color: green
