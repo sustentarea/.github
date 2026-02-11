@@ -69,6 +69,9 @@ color:
     white: "#FFFFFF"
     gray: "#7A7A7A"
     gray-d15: "#676767" # colorspace::darken("#7A7A7A", 0.15)
+    gray-d25: "#5A5A5A" # colorspace::darken("#7A7A7A", 0.25)
+    gray-d45: "#424242" # colorspace::darken("#7A7A7A", 0.45)
+    gray-d50: "#3D3D3D" # colorspace::darken("#7A7A7A", 0.50)
     gray-l50: "#BABABA" # colorspace::lighten("#7A7A7A", 0.50)
     gray-l95: "#F8F8F8"
     black: "#272B33"
