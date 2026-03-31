@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="100"
+   viewBox="0 0 1000 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="osf-strip.svg"
+   inkscape:export-filename="osf-strip.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Sustentarea OSF Strip</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="0.71268238"
+     inkscape:cx="463.03937"
+     inkscape:cy="71.56063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="975,150"
+       orientation="-1,0"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="950,150"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="25,150"
+       orientation="-1,0"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="50,150"
+       orientation="-1,0"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,75"
+       orientation="0,1"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,25"
+       orientation="0,1"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#006909;stroke-width:2;stroke-linecap:square;stroke-miterlimit:5"
+       id="rect1"
+       width="1000"
+       height="100"
+       x="0"
+       y="0"
+       inkscape:label="Green" />
+  </g>
+  <g
+     inkscape:label="Name"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(0.42735043,0,0,0.42735043,460.68376,47.649573)"
+     style="stroke-width:2.34"
+     sodipodi:insensitive="true">
+    <path
+       class="c"
+       d="m 156.925,30.375 c 6.6875,5.975 21.0125,11.9375 31.625,11.9375 8.575,0 12.1,-2.8 12.1,-6.7125 0,-4.675 -6.1375,-6.35 -15.4375,-7.8375 C 169.9625,25.15 148.375,22.025 148.375,-0.9 c 0,-15.85 13.5875,-29.65 38.5125,-29.65 13.475,-0.1375 26.65,4.05 37.5875,11.9375 L 213.5,0.4125 c -5.4,-5.2125 -15.625,-9.875 -26.425,-9.875 -6.6875,0 -11.35,2.2375 -11.35,6.15 0,3.9125 4.85,5.5875 14.3,7.2625 15.25,2.625 37.9625,6.35 37.9625,30.2125 C 227.9875,51.3625 212.925,64 187.05,64 171.05,64 154.5,58.6 145,50.2125 L 156.9375,30.375 Z"
+       id="path1"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 303.3375,50.9 c -5.575,6.3375 -16,13.0375 -31.0625,13.0375 -20.4625,0 -29.575,-11.55 -29.575,-28.15 V -28.375 h 28.5875 v 52.3625 c 0,10.825 5.575,14.55 14.8875,14.55 6.775,-0.0375 13.1375,-3.2875 17.15,-8.775 v -58.2 h 28.5875 V 61.65 H 303.325 V 50.9 Z"
+       id="path2"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 357.175,30.375 c 6.7,5.975 21.025,11.9375 31.625,11.9375 8.575,0 12.1,-2.8 12.1,-6.7125 0,-4.675 -6.1375,-6.35 -15.4375,-7.8375 -15.25,-2.6125 -36.825,-5.7375 -36.825,-28.6625 0,-15.85 13.5875,-29.65 38.5,-29.65 13.475,-0.1375 26.65,4.05 37.5875,11.9375 L 413.75,0.4125 c -5.3875,-5.2125 -15.625,-9.875 -26.425,-9.875 -6.6875,0 -11.3375,2.2375 -11.3375,6.15 0,3.9125 4.8375,5.5875 14.3,7.2625 15.25,2.625 37.9375,6.35 37.9375,30.2125 0,17.2 -15.0625,29.8375 -40.9375,29.8375 -16,0 -32.55,-5.4 -42.05,-13.7875 z"
+       id="path3"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="M 448.8375,37.475 V -3.375 H 433.95 v -25 h 14.8875 V -53 h 28.4375 v 24.625 H 495.5 v 25 H 477.275 V 29.45 c 0,5.2375 2.975,9.15 7.9875,9.15 3.175,0 6.3375,-1.1125 7.2625,-2.2375 l 5.575,21.625 c -3.5375,3.35 -10.6125,5.9625 -21.2,5.9625 -18.2125,0 -28.0625,-9.125 -28.0625,-26.475 z"
+       id="path4"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 533.3,7.075 h 37.0125 C 569.575,0.725 564.925,-8.4125 551.725,-8.4125 c -12.475,0 -17.275,8.95 -18.425,15.4875 z m 18.4125,-37.6875 c 26.6,0 45.95,19.575 45.95,50.1625 V 25.7 H 533.675 c 1.675,8.3875 9.475,16.0375 22.875,16.0375 8,0 16.925,-3.1625 21.9625,-7.65 L 590.6125,52 C 581.675,60.0125 566.8,63.925 553.025,63.925 c -27.725,0 -49.1125,-18.0875 -49.1125,-47.3 0,-26.1625 19.7125,-47.2375 47.8125,-47.2375 z"
+       id="path5"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 672.6375,9.65 c 0,-11.0125 -5.725,-14.925 -14.6875,-14.925 -6.875,0.05 -13.3375,3.275 -17.5,8.7625 v 58.2 H 611.8625 V -28.375 H 640.45 v 11.0125 c 5.4,-6.3375 16,-13.2375 31.0625,-13.2375 20.475,0 29.7625,11.9375 29.7625,28.5375 V 61.725 H 672.6875 L 672.625,9.6625 Z"
+       id="path6"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 728.1,37.475 v -40.85 h -14.925 v -25 h 14.8875 V -53 h 28.45 v 24.625 H 774.8 v 25 H 756.5625 V 29.45 c 0,5.2375 2.9875,9.15 8,9.15 3.1625,0 6.325,-1.1125 7.2625,-2.2375 l 5.575,21.625 c -3.5375,3.35 -10.6125,5.9625 -21.2125,5.9625 -18.225,0 -28.075,-9.125 -28.075,-26.475 z"
+       id="path7"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 842.125,30.5625 c -2.975,-4.1 -9.6625,-6.3375 -16,-6.3375 -7.625,0 -14.3,3.35 -14.3,10.45 0,7.1 6.7,10.4375 14.3,10.4375 6.3375,0 13.025,-2.2375 16,-6.525 z m 0,22.2 c -5.575,6.7125 -16.375,11.175 -27.8875,11.175 -13.7625,0 -30.9,-9.3125 -30.9,-29.6375 0,-21.825 17.15,-28.35 30.9,-28.35 11.9,0 22.5,3.725 27.8875,10.4375 V 5.025 c 0,-7.8375 -6.6875,-13.0625 -18.225,-13.0625 -9.3375,0.1 -18.35,3.4625 -25.4875,9.5 l -10.225,-18.0875 c 11.5375,-9.8875 26.975,-13.9875 40.75,-13.9875 21.575,0 41.85,8.025 41.85,36 V 61.7 H 842.2 l -0.0625,-8.95 z"
+       id="path8"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 891.625,-28.375 h 28.5875 V -17 c 5.95,-7.2625 17.3,-13.6125 28.0875,-13.6125 V -2.825 c -2.2875,-0.675 -4.675,-0.9875 -7.0625,-0.9375 -7.45,0 -17.3125,3.1625 -21.025,8.4 V 61.7 H 891.625 Z"
+       id="path9"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 984.8125,7.075 h 37.0125 c -0.7375,-6.35 -5.3875,-15.4875 -18.5875,-15.4875 -12.45,0 -17.2875,8.95 -18.425,15.4875 z m 18.4375,-37.6875 c 26.6,0 45.95,19.575 45.95,50.1625 v 6.15 h -63.9875 c 1.675,8.3875 9.475,16.0375 22.875,16.0375 8.0125,0 16.925,-3.1625 21.9625,-7.65 L 1042.15,52 c -8.9375,8.0125 -23.8125,11.925 -37.5875,11.925 -27.725,0 -49.1125,-18.0875 -49.1125,-47.3 0,-26.1625 19.7125,-47.2375 47.8125,-47.2375 z"
+       id="path10"
+       style="fill:#9ecd7a;stroke-width:0px" />
+    <path
+       class="c"
+       d="m 1116.3375,30.5625 c -2.975,-4.1 -9.675,-6.3375 -16,-6.3375 -7.6375,0 -14.3,3.35 -14.3,10.45 0,7.1 6.6875,10.4375 14.3,10.4375 6.325,0 13.025,-2.2375 16,-6.525 z m 0,22.2 c -5.575,6.7125 -16.375,11.175 -27.9125,11.175 -13.7625,0 -30.875,-9.3125 -30.875,-29.6375 0,-21.825 17.15,-28.35 30.875,-28.35 11.9125,0 22.5125,3.725 27.9125,10.4375 V 5.025 c 0,-7.8375 -6.7,-13.0625 -18.225,-13.0625 -9.3375,0.0875 -18.3625,3.45 -25.4875,9.5 l -10.2375,-18.0875 c 11.5375,-9.8875 26.975,-13.9875 40.75,-13.9875 21.5875,0 41.8625,8.025 41.8625,36 V 61.7 h -28.65 v -8.95 z"
+       id="path11"
+       style="fill:#9ecd7a;stroke-width:0px" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>All Rights Reserved</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sustentarea</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Sustentarea OSF Strip</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
