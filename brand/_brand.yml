@@ -1,7 +1,5 @@
 meta:
-  name:
-    short: Sustentarea
-    full: Sustentarea Research and Extension Group
+  name: Sustentarea Research and Extension Group
   link:
     home: https://www.fsp.usp.br/sustentarea
     github: https://github.com/sustentarea
@@ -12,69 +10,29 @@ meta:
     linkedin: https://www.linkedin.com/in/sustentarea-usp-230700218
     linktree: https://linktr.ee/sustentarea.usp
   description: |
-    Research and Extension Center of the University of São Paulo
-    (USP) dedicated to advancing scientific research in food systems,
-    sustainable eating, and the global syndemic.
+    Research and extension center at the University of São Paulo (USP) focused
+    on food systems, sustainable diets, and the global syndemic.
   founded: 2012
-
-logo:
-  images:
-    favicon:
-      path: images/favicon.png
-      alt: "Logo favicon"
-    hex-logo:
-      path: images/hex-logo-rgb-96-dpi.png
-      alt: "Hex logo"
-    og-image:
-      path: image/og-image.png
-      alt: "Open Graph Image"
-    icon:
-      path: images/icon-rgb-72-dpi.png
-      alt: "Logo icon"
-    icon-w-margins:
-      path: images/icon-rgb-72-dpi-w-margins.png
-      alt: "Logo icon with margins"
-    name:
-      path: images/name-rgb-72-dpi.png
-      alt: "Logo name"
-    name-w-margins:
-      path: images/name-rgb-72-dpi-w-margins.png
-      alt: "Logo name with margins"
-    name-light-green:
-      path: images/name-light-green-rgb-72-dpi.png
-      alt: "Logo name in ligth green"
-    primary:
-      path: images/logo-rgb-72-dpi.png
-      alt: "Logo with name and icon"
-    primary-w-margins:
-      path: images/logo-rgb-72-dpi-w-margins.png
-      alt: "Logo with name and icon with margins"
-    full:
-      path: images/logo-rgb-96-dpi-w-tagline.png
-      alt: "Full logo with tagline"
-  small: favicon
-  medium: name
-  large: primary
 
 color:
   palette:
     green: "#006909"
-    red: "#ED6B4D"
-    red-750: "#F5B4A5"
+    red: "#ed6b4d"
+    red-l50: "#ffb5ab" # colorspace::lighten("#f5b4a5", 0.5)
     brown: "#513024"
-    brown-750: "#A79791"
-    light-green: "#9ECD7A"
-    dark-red: "#B44522"
-    dark-red-triadic-blue: "#4522B4" # colortools::triadic("#B44522")[3]
-    white: "#FFFFFF"
-    gray: "#7A7A7A"
-    gray-d15: "#676767" # colorspace::darken("#7A7A7A", 0.15)
-    gray-d25: "#5A5A5A" # colorspace::darken("#7A7A7A", 0.25)
-    gray-d45: "#424242" # colorspace::darken("#7A7A7A", 0.45)
-    gray-d50: "#3D3D3D" # colorspace::darken("#7A7A7A", 0.50)
-    gray-l50: "#BABABA" # colorspace::lighten("#7A7A7A", 0.50)
-    gray-l95: "#F8F8F8"
-    black: "#272B33"
+    brown-l50: "#af8e85" # colorspace::lighten("#513024", 0.5)
+    light-green: "#9ecd7a"
+    dark-red: "#b44522"
+    dark-red-triadic-blue: "#4522b4" # colortools::triadic("#b44522")[3]
+    white: "#ffffff"
+    gray: "#7a7a7a"
+    gray-l50: "#bababa" # colorspace::lighten("#7a7a7a", 0.5)
+    gray-l95: "#f8f8f8" # colorspace::lighten("#7a7a7a", 0.95)
+    gray-d15: "#676767" # colorspace::darken("#7a7a7a", 0.15)
+    gray-d25: "#5a5a5a" # colorspace::darken("#7a7a7a", 0.25)
+    gray-d45: "#424242" # colorspace::darken("#7a7a7a", 0.45)
+    gray-d50: "#3d3d3d" # colorspace::darken("#7a7a7a", 0.5)
+    black: "#272b33"
   background: white
   primary: green
   secondary: red
@@ -90,42 +48,26 @@ typography:
   fonts:
     - family: Poppins
       source: google
+      weight: [100, 200, 300, 400, 500, 600, 700, 800, 900]
     - family: DM Mono
       source: google
+      weight: [300, 400, 500]
   base:
     family: Poppins
     size: 1rem
-    line-height: 2
+    line-height: 1.75
     weight: normal
   headings:
     family: Poppins
     color: brown
-    line-height: 2
+    line-height: 1.75
     weight: 800
   monospace: DM Mono
   monospace-inline:
     color: green
-    background-color: gray-975
+    background-color: gray-l95
   monospace-block:
-    background-color: gray-975
+    background-color: gray-l95
   link:
     color: green
     decoration: underline
-
-defaults:
-  bootstrap:
-    defaults:
-      navbar-bg: $brand-black
-    rules: |
-      .navbar {
-        background-color: $brand-black !important;
-      }
-
-      .navbar a {
-        color: white !important;
-      }
-
-      [data-bs-theme="dark"] pre, [data-bs-theme="dark"] code,
-      [data-bs-theme="dark"] a {
-        color: $brand-light-green;
-      }
